@@ -18,10 +18,6 @@
       "unique": true,
       "minLength": 3
     },
-    "Date": {
-      "type": "date",
-      "required": true
-    },
     "Authors": {
       "type": "relation",
       "relation": "oneToMany",
